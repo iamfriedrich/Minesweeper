@@ -1,2 +1,2 @@
 # Minesweeper
-This is a minesweeper game by Python.
+This is a minesweeper game created by Python. Make sure you have already installed pygame in your computer and then run the file "runner.py" to play this game. Click a cell you prefer to start the game and make your first move, you can also choose "AI play" if you want a higher chance to win. I hope you enjoy this game, and if you like this project, would you please consider following me on GitHub?
